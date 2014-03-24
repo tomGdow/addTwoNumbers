@@ -1,5 +1,4 @@
-(function() {
-var button = $$('myButton');
+
 
 function $$(id) {
     'use strict';
@@ -10,6 +9,9 @@ function $$(id) {
         return 'undefined'
     }
 }
+
+
+var button = $$('myButton');
 
 function addNumbers() {
 
@@ -55,6 +57,9 @@ function showBackground(arg) {
     $('#' + arg).css('background-color', '#f7bebe');
 }
 
+
+$(document).ready(function () {
+
     $('#firstNumber').focus(function () {
         $('#firstNumber').css('background-color', '#fff');
         hideDivs('firstNumberTip');
@@ -67,17 +72,11 @@ function showBackground(arg) {
         hideDivs('scorewrapper');
     });
 
-//    button.onclick = function () {
-//        addNumbers();
-//        $('#dragpara').hide().fadeIn(2000);
-//        return false;
-//
-//    };
-
-    button.addEventListener("click",function () {
+    button.onclick = function () {
         addNumbers();
         $('#dragpara').hide().fadeIn(2000);
         return false;
 
-    }, false);
-})()
+    };
+
+});

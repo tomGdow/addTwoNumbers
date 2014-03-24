@@ -1,0 +1,515 @@
+    3  git commit -m "third commit"
+    4  git checkout master
+    5  git logg
+    6  git status
+    7  git add .
+    8  git commit -m "everthing added"
+    9  git logg
+   10  git add .
+   11  git commit -m "added hello "
+   12  git logg
+   13  git checkout aee42e7
+   14  texmaker 
+   15  git status
+   16  git checkout master
+   17  git add .
+   18  git commit 
+   19  git commit -m "fourth commit"
+   20  git logg
+   21  git checkout master
+   22  git logg
+   23  cd Desktop/
+   24  cd git_more_practice/
+   25  gedit  myfile.txt
+   26  git init
+   27  git add file.txt
+   28  git add myfile.txt
+   29  git commit -m "First commit"
+   30  git logg
+   31  ls
+   32  gedit myfile.txt
+   33  git commit -m "commit two"
+   34  git logg
+   35  gedit myfile.txt
+   36  git checkout a898dab
+   37  gedit myfile.txt
+   38  cd Desktop/
+   39  node jsscope.js 
+   40  node adrain.js
+   41  node jsscope.js 
+   42  node adrian.js
+   43  node jsscope.js
+   44  node adrian.js
+   45  node jsscope.js
+   46  node adrian.js
+   47  clear
+   48  node adrian.js
+   49  cd Desktop/
+   50  node adrian.js
+   51  cd Desktop/
+   52  node adrian.js
+   53  cd ~
+   54  cd "file:///home/thomas/NCI%20Stuff/MSc_in_WebTech/ARIA/AdrianScripts"
+   55  cd file:///home/thomas/NCI%20Stuff/MSc_in_WebTech/ARIA/AdrianScripts/adrian_print_five_puzzle.js "
+   56  cd ~
+   57  gem install jekyll
+   58  sudo gem install jekyll
+   59  jekyll serve
+   60  cd Deskop
+   61  cd Desktop/
+   62  gedit sunnday.js
+   63  node sunnday.js 
+   64  node prototype_Reisig_eg.js
+   65  node predict_outcome_jsscope.js 
+   66  node let_predict_outcome.js
+   67  node --harmony let_predict_outcome.js
+   68  node let_predict_outcome.js
+   69  node --harmony let_predict_outcome.js
+   70  cd "NCI Stuff/All_completed_projects/drag_the_dragonfly"
+   71  git all .
+   72  git add .
+   73  git commit -m "correct playAgain error"
+   74  git push
+   75  cmc
+   76  cd Desktop/
+   77  agi
+   78  cd ~
+   79  cd bin
+   80  cd .
+   81  cd ..
+   82  cd bin
+   83  cd ..
+   84  cd bin
+   85  ls
+   86  cd ..
+   87  ls
+   88  cd ~
+   89  ls
+   90  ls -la
+   91  gedit .bashrc
+   92  cd ..
+   93  cd bin
+   94  gedit .bash
+   95  ls
+   96  gedit bash
+   97  ls
+   98  ls
+   99  alias cmc = '. ~/.bashrc'
+  100  alias cmc='. ~/.bashrc'
+  101  cmc
+  102  . ~/.bashrc
+  103  LS
+  104  rails new thomasExpt
+  105  q
+  106  cd ~
+  107  cd aria
+  108  ls
+  109  cd tut_heroku_rails_app/
+  110  rails new tutRailsHeroku
+  111  cd tutRailsHeroku/
+  112  bundle install
+  113  gem install sass -v '3.3.0
+  114  '
+  115  sudo gem install sass -v '3.3.0'
+  116  bundle install
+  117  bundle exec install
+  118  sudo bundle install
+  119  history
+  120  rails s
+  121  git init
+  122  git add .
+  123  git commit -m "first commit"
+  124  heroku create
+  125  git push heroku master
+  126  git add .
+  127  git commit -m "removed sqlite from gemfile'
+  128  git commit -m "removed sqlite from gemfile"
+  129  git push heroku master
+  130  bundle install
+  131  sudo bundle install
+  132  git push heroku master
+  133  git add .
+  134  git commit 'removed gemfile.lock'
+  135  git commit -m "removed gemfile.lock"
+  136  git push heroku master
+  137  ls
+  138  rails s
+  139  sudo bundle install
+  140  rails s
+  141  git add .
+  142  git commit -m "changed gemfile to jscalc ver"
+  143  histoyr
+  144  history
+  145  git push heroku master
+  146  cd ~
+  147  cd aria
+  148  ls
+  149  mkdir tutRailsApp
+  150  rails new tutapp
+  151  cd tutapp
+  152  sudo bundle install
+  153  rails generate controller myapp
+  154  rm public/index.html
+  155  pwd
+  156  rails s
+  157  git init
+  158  heroku create
+  159  git add .
+  160  git commit -m "First Commit"
+  161  git push heroku master
+  162  sudo bundle install
+  163  git add .
+  164  git commit -m "added hartl sqlite method"
+  165  git push heroku master
+  166  heroku create
+  167  bundle install
+  168  git add .
+  169  git commit -m "removed sqlite from gemfile. deleted gemfilelock"
+  170  git push heroku master
+  171  git remote rm origin
+  172  heroku rake db:migrate
+  173  git push heroku master
+  174  ls
+  175  cd ~
+  176  cd Desktop/
+  177  mkdir herokuPractice
+  178  cd herokuPractice/
+  179  rails new bonnie
+  180  cd bonnie/
+  181  bundle install
+  182  sudo bundle install 
+  183  git init
+  184  heroku create
+  185  git add .
+  186  git commit -m "first commit"
+  187  git push heroku master
+  188  bundle install
+  189  git add .
+  190  git commit -m "added razor"
+  191  git push heroku master
+  192  sudo bundle install
+  193  git add .
+  194  git commit -m "added gemfile.lock"
+  195  git push heroku master
+  196  cd Desktop/
+  197  git clone git@github.com:tomGdow/drag_the_dragonfly.git
+  198  cd nci
+  199  cd ~
+  200  cd nci
+  201  cd All_completed_projects/
+  202  cd toHeroku_dragonfly/
+  203  git add .
+  204  git commit -m "fixed CSS ../ problem"
+  205  git push heroku master
+  206  heroku open
+  207  history
+  208  heroku rename dragonfly-dodoDesigns
+  209  heroku rename dragonfly-dododesigns
+  210  cd ~
+  211  cd Desktop/
+  212  git clone git@heroku.com:tgd-jscalc.git 
+  213  mine
+  214  cd skeptics
+  215  rails s
+  216  ls
+  217  cd naturalskeptics/
+  218  rails s
+  219  rails s
+  220  mine
+  221  sudo apt-get install brackets
+  222  cd ~
+  223  brackets
+  224  bracktes
+  225  brackets
+  226  cd Desktop/
+  227  git clone git@github.com:tomGdow/jekyll-starter-pack.git
+  228  jekll
+  229  man jekll
+  230  jekyll serve --watch --baseurl ''
+  231  cd jekyll-starter-pack/
+  232  jekyll serve --watch --baseurl ''
+  233  jekyll serve
+  234  jekyll serve --watch --baseurl ''
+  235  echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
+  236  jekyll serve --watch --baseurl ''
+  237  psql --version
+  238  brew install postgresql
+  239  sudo apt-get install postgresql postgresql-contrib
+  240  cd ~
+  241  sudo apt-get install postgresql postgresql-contrib
+  242  psql --version
+  243  which psql
+  244  cd Desktop
+  245  git clone git@github.com:tomGdow/tomAriaPracitice.git
+  246  git clone git@github.com:tomGdow/tomdowAriaPractice.git
+  247  cd tomdowAriaPractice/
+  248  git add .
+  249  git commit -m "first commit"
+  250  git push
+  251  git logg
+  252  git status
+  253  git checkout index.html
+  254  touch config.ru
+  255  bundle init
+  256  bundle install
+  257  git add Gemfile config.ru
+  258  git commit -m "gemfile config.ru added"
+  259  git push
+  260  git logg
+  261  heroku create
+  262  git remote
+  263  git push heroku master
+  264  git add Gemfile.lock
+  265  git commit -m "added gemfile.lock"
+  266  git push heroku master
+  267  heroku open
+  268  git add .
+  269  git commit -m "fixed index.html"
+  270  git push heroku master
+  271  heroku open
+  272  history
+  273  git add .
+  274  git commit -m "fixed css"
+  275  git push heroku master
+  276  heroku open
+  277  git add .
+  278  git commit -m "added thomas line to html"
+  279  git push heroku master
+  280  heroku open
+  281  git add .
+  282  git commit -m "fixed css again"
+  283  git push heroku master
+  284  git add .
+  285  git commit -m "fixed css aka adrian"
+  286  git push heroku master
+  287  heroku open
+  288  git status
+  289  history
+  290  cd ~
+  291  git clone git@github.com:tomGdow/jasmine.git
+  292  pwd
+  293  git status
+  294  alias cmc='. ~/.bashrc'
+  295  cmc
+  296  cp /home/thomas/Desktop/jasmine-standalone-2.0.0/lib/jasmine-2.0.0 ./test
+  297  cp /home/thomas/Desktop/jasmine-standalone-2.0.0/lib/jasmine-2.0.0/jasmine-html.js ./test/js
+  298  cp /home/thomas/Desktop/jasmine-standalone-2.0.0/lib/jasmine-2.0.0/boot.js ./test/js
+  299  cp ~/NCI Stuff/MSc_in_WebTech/ARIA/5_topic_five/converter.js ./test/js
+  300  cd ~/NCI Stuff/MSc_in_WebTech/ARIA/5_topic_five
+  301  cd NCI Stuff/MSc_in_WebTech/ARIA/5_topic_five
+  302  cd aria
+  303  ls
+  304  cd ~
+  305  cd Desktop/
+  306  cd jasmine_tut_adrian_tomDow_v2/
+  307  ls
+  308  cp ~/"NCI Stuff"/MSc_in_WebTech/ARIA/5_topic_five/converter.js ./test/js
+  309  cd ~/"NCI Stuff"/MSc_in_WebTech/ARIA/5_topic_five
+  310  ls
+  311  cp ~/"NCI Stuff"/MSc_in_WebTech/ARIA/5_topic_five/Converter.js ./test/js
+  312  cd~/Desktop
+  313  cd ~/Desktop
+  314  cd jasmine_tut_adrian_tomDow_v2/
+  315  cp ~/"NCI Stuff"/MSc_in_WebTech/ARIA/5_topic_five/Converter.js ./test/js
+  316  cp ~/"NCI Stuff"/MSc_in_WebTech/ARIA/5_topic_five/ConverterSpec.js ./test/spec
+  317  ln -s ~/Desktop/jasmine-standalone-2.0.0 jas
+  318  jas
+  319  cd jas
+  320  ls
+  321  cd Desktop
+  322  mv jasmine-standalone-2.0.0 ~/"NCI Stuff"/MSc_in_WebTech/ARIA/120_tutorials_TGD_Work
+  323  cp  jasmine-standalone-2.0.0.zip ~/"NCI Stuff"/MSc_in_WebTech/ARIA/120_tutorials_TGD_Work
+  324  mv jasmine-standalone-2.0.0_TutsPlus ~/"NCI Stuff"/MSc_in_WebTech/ARIA/120_tutorials_TGD_Work
+  325  mv jasmine-tut_adrain_tomDow_V2 ~/"NCI Stuff"/MSc_in_WebTech/ARIA/120_tutorials_TGD_Work
+  326  mv jasmine_tut_adrian_tomDow_v2  ~/"NCI Stuff"/MSc_in_WebTech/ARIA/120_tutorials_TGD_Work
+  327  mv tutorial_tgd  ~/"NCI Stuff"/MSc_in_WebTech/ARIA/120_tutorials_TGD_Work
+  328  mv Heroku_tut_inLine_Styles  ~/"NCI Stuff"/MSc_in_WebTech/ARIA/120_tutorials_TGD_Work
+  329  mv Heroku_tut_embedded_CSS  ~/"NCI Stuff"/MSc_in_WebTech/ARIA/120_tutorials_TGD_Work
+  330  mv tomdowAriaPractice  ~/"NCI Stuff"/MSc_in_WebTech/ARIA/120_tutorials_TGD_Work
+  331  mv adrian_history-tutorial  ~/"NCI Stuff"/MSc_in_WebTech/ARIA/120_tutorials_TGD_Work
+  332  mv ske.html  ~/"NCI Stuff"/MSc_in_WebTech/ARIA/120_tutorials_TGD_Work
+  333  cd Desktop/
+  334  mv ske.html  ~/"NCI Stuff"/MSc_in_WebTech/ARIA/120_tutorials_TGD_Work
+  335  cd skeptics
+  336  git add .
+  337  git commit -m "just before push Heroku"
+  338  heroku create
+  339  git push heroku master
+  340  git add .
+  341  git commit -m "fixed gitignore'
+  342  git commit -m "fixed gitignore"
+  343  git push heroku master
+  344  ls
+  345  cd naturalskeptics/
+  346  ls
+  347  git push heroku master
+  348  git add >
+  349  git add .
+  350  git commit -m "from correct directory"
+  351  git push heroku master
+  352  bundle install
+  353  git add .
+  354  git commit -m "after bundle install"
+  355  git push heroku master
+  356  git add .
+  357  git commit -m "added factor 12 gem"
+  358  git push heroku master
+  359  rm -rf .git
+  360  git init
+  361  git add .
+  362  git commit -m "Reinitialize"
+  363  heroku create --stack cedar
+  364  git push heroku master
+  365  bundle install
+  366  git add .
+  367  git commit -m "gemfile.lock added with bundle install"
+  368  git push heroku master
+  369  git add .
+  370  git commit -m "fixed binToDec gem version"
+  371  git push heroku master
+  372  bundle exec install
+  373  bundle install
+  374  git add .
+  375  git commit -m "remodifed binToDec"
+  376  git push heroku master
+  377  bundle exec bundle install
+  378  git add .
+  379  git commit -m "latest verion of binToDec"
+  380  git push heroku master
+  381  git add .
+  382  git commit -m "removed binToDec"
+  383  git push heroku master
+  384  bundle install
+  385  git add .
+  386  git commit -m "bundle install and gemfile.lock deleted"
+  387  git push heroku master
+  388  cd skeptics
+  389  cd naturalskeptics/
+  390  rails s
+  391  bundle install
+  392  ls
+  393  rails s
+  394  bundle install
+  395  rails s
+  396  cd ~
+  397  cd Desktop/
+  398  cd AjaxXMlExample/
+  399  cd ajaxexample/
+  400  rails s
+  401  cd ~
+  402  cd skeptics
+  403  cd naturalskeptics/
+  404  rails s -p 4000
+  405  rails s
+  406  cd ~
+  407  cd Desktop/
+  408  mkdir herokuAjaxPull
+  409  cd herokuAjaxPull/
+  410  git clone git@heroku.com:lit-beach-7828.git
+  411  heroku loggs
+  412  mine
+  413  rm public/index.html
+  414  history
+  415  ls
+  416  git init
+  417  git add .
+  418  git commit -m "first commit"
+  419  gedit .gitignore
+  420  heroku create
+  421  git push heroku master
+  422  bundle install
+  423  git add .
+  424  git commit -m "removed sqlite gem from gemfile"
+  425  git push heroku master
+  426  heroku create
+  427  git push heroku master
+  428  heroku create
+  429  git push heroku master
+  430  git push heroku  secure-ridge-7295 
+  431  heroku init
+  432  git remote rm heroku
+  433  git push heroku master
+  434  heroku create
+  435  git push heroku master
+  436  git add .
+  437  git commit -m "fixed precompile assets equal false"
+  438  git push heroku master
+  439  heroku open
+  440  ls
+  441  rails s
+  442  heroku open
+  443  git status
+  444  heroku logs
+  445  bundle install
+  446  git add .
+  447  git commit -m "added pg to gem file"
+  448  git push heroku master
+  449  heroku open
+  450  bundle install
+  451  grails g foundation:install
+  452  rails g foundation:install
+  453  bundle install
+  454  rails s
+  455  git checkout
+  456  git logg
+  457  git checkout .
+  458  git checkout 94c608f
+  459  cd Desktop
+  460  cd ~
+  461  cd Desktop/
+  462  mkdir AjaxXMlExample
+  463  cd AjaxXMlExample/
+  464  rails new ajaxexample
+  465  cd ajaxexample/
+  466  bundle install
+  467  rails generate controller ajaxpage
+  468  cd ~
+  469  cd Desktop/
+  470  mkdir ajaxExampleXML
+  471  cd ajaxExampleXML/
+  472  rails new ajaxexample
+  473  cd ajaxexample/
+  474  ls
+  475  bundle install
+  476  ls
+  477  rails generate controller ajaxpages index
+  478  rails s
+  479  history
+  480  rails s
+  481  texmaker
+  482  cd Desktop/
+  483  cd ajaxExampleXML/
+  484  cd ajaxexample/
+  485  heroku open
+  486  heroku rename tomdow-ajax
+  487  idea
+  488  mine
+  489  sudo /usr/sbin/update-alternatives --config java
+  490  dpkg --list | grep -i jdk
+  491  sudo add-apt-repository ppa:webupd8team/java
+  492  sudo apt-get update && sudo apt-get install oracle-jdk7-installer
+  493  sudo apt-get install sun-java6-jdk
+  494  sudo apt-get install oracle-java8-installer 8u0-1~webupd8~5
+  495  java -version
+  496  history
+  497  git status
+  498  rails s
+  499  sudo /usr/sbin/update-alternatives --config java
+  500  alias cmc='. ~/.bashrc'
+  501  cmd
+  502  cmc
+  503  clear
+  504  ls
+  505  mkdir -p public/{images,js,css}
+  506  touch config.ru
+  507  bundle init
+  508  bundle install
+  509  git add .
+  510  git commit -m "Set up for Heroku deploy"
+  511  heroku create
+  512  git push heroku master
+  513  heroku open
+  514  heroku rename addtwotom
+  515  heroku open
+  516  history
+  517  history >addtwohistory.txt
