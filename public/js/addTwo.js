@@ -16,7 +16,6 @@ var mymodule = (function () {
         $('#' + arg).css('background-color', '#f7bebe');
     },
 
-
     $$: function (id) {
         'use strict';
         if (typeof id != 'undefined') {
@@ -34,6 +33,7 @@ var mymodule = (function () {
         if (isNaN(fnum) === false && isNaN(snum) === false) {
             this.$$('output').innerHTML = fnum + snum;
             this.showDivs('scorewrapper');
+            $('#dragpara').hide().fadeIn(2000);
             return false;
         }
 
@@ -76,10 +76,9 @@ $(document).ready(function () {
     });
 });
 
-
 //AddEventListener
 mymodule.$$('myButton').addEventListener("click",function () {
     mymodule.addNumbers();
-    $('#dragpara').hide().fadeIn(2000);
+
     return false;
 }, false);
